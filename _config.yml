@@ -1,13 +1,12 @@
-theme: jekyll-theme-minimal
-title: Tauseef Jamadar
-description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
+title: Daniel Shen
+description: [Description]
+author: Daniel Shen
+email: daniel.shen0987@gmail.com
+phone: (647) 831-7889
+github: https://github.com/UncreativeName1
+about: [About Me]
 disqus_shortname: programming
-google_analytics: UA-31048387-6
+# google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -19,20 +18,10 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
-    - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
-    # - icon: fa-stack-exchange
-    #   link: "#"
+    - icon: fa-dmoj
+      link: "https://dmoj.ca/user/UncreativeName"
     - icon: fa-github
-      link: "https://github.com/tmjam"
-
-share:
-  twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+      link: "https://github.com/UncreativeName1"
 
 urls:
     - text: About Me
@@ -44,7 +33,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+url: "https://uncreativename1.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
