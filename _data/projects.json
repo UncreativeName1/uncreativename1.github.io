@@ -1,51 +1,51 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
+		"slug": "fearless",
+		"name": "Fearless",
 		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"url": "https://unitedspeakers.org",
+		"source": "https://github.com/UncreativeName1/Fearless",
+		"date": "Apr 2021 - Present",
+		"description": "Developed for United Speakers Global, Fearless is an app on the app stuer that allows users to practice their public speaking with customizable options.",
+		"tags": ["Swift","App Store","Current Project"]
 	},
 	{
-		"name": "Easy Links",
+		"name": "Discord Moderation Bot",
 		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"source": "https://github.com/UncreativeName1/Mod-Bot",
+		"date": "Sep 2019 - Jun 2020",
+		"description": "A moderation bot in Discord to facilitate banning, kicking, etc. in Discord servers.",
+		"tags": ["Node.js","Discord.js","Javascript"]
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Discord Suggestions Bot",
 		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"source": "https://github.com/UncreativeName1/suggestionbot",
+		"date": "July 2020 - Oct 2020",
+		"description": "A bot requested by a Discord server that helps facilitate polls and provides automatic actions upon certain conditions.",
+		"tags": ["Node.js","Discord.js","Javascript"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
+		"name": "RF Bot",
 		"image": "pp_logo.png",
-		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
+		"source": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
+		"date": "May 2019 - Sep 2019",
+		"description": "An entertainment bot in Discord that can provide facts of a random or chosen topic.",
+		"tags": ["Node.js","Discord.js","Javascript"]
 	},
 	{
-		"name": "Street Saver Certification Program",
+		"name": "DMOJ Practice",
 		"image": "streetsaver.png",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"source": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
+		"date": "Sep 2021",
+		"tags": ["C++","Contest"]
 	},
 	{
-		"name": "Tire Derived Aggregate",
+		"name": "Cartesian Battle",
 		"image": "tda.png",
-		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},{
-		"name": "JM Watts Chico",
-		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		"source": "https://github.com/UncreativeName1/CartesianBattle",
+		"date": "Sep 2021 - Present",
+		"description": "A math-themed Unity game where players write graphs to complete tasks.",
+		"tags": ["C#","Unity"]
 	}
 ]

@@ -18,6 +18,8 @@ collections:
     permalink: /project/:path/
 
 social:
+    - icon: fa-asterisk
+      link: "https://dmoj.ca/user/UncreativeName"
     - icon: fa-github
       link: "https://github.com/UncreativeName1"
 

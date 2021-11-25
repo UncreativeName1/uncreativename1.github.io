@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+Currently, I am a '22 high school student attending Holy Trinity School. I'm passionate about both math and computer science, and look forward to expanding my knowledge in each.
+Please, I invite you to take a look at my resume below to get a good understanding of me!
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>

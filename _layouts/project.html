@@ -23,9 +23,6 @@ layout: default
       {% for i in site.data.projects %}
       <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
         <div class="project-inner">
-          <a href="{{site.url}}/static/projects/{{ i.image }}" class="thickbox" title="{{i.description}}">
-            <div class="project-img bordered" style="background-image: url('{{site.url}}/static/projects/{{ i.image }}');"></div>
-          </a>
           {% assign p_url = nil %}
           {% for pr in p_array %}
             {% if pr contains i.slug %}
@@ -50,10 +47,13 @@ layout: default
                 {% endfor %}
               {% endif %}
             </div>
+            <div class="description">
+              <span class="project-descriotion">{{i.description}}</span>
+            </div>
           </div>
           <div class="project-footer">
-            {% if i.url %}
-              <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
+            {% if i.source %}
+              <a href="{{ i.source }}" class="project-link" target="_blank"><i class="fa github"></i> Project Source</a>
             {% endif %}
             <span class="project-timeline">{{ i.date }}</span>
           </div>
