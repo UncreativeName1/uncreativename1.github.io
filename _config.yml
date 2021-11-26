@@ -28,10 +28,11 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
+    - text: Achievements
+      url: /achievements/
     - text: Blogs
       url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
+
 # url: "http://localhost:4000"
 url: "https://uncreativename1.github.io"
 baseurl: ""

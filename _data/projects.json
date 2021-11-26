@@ -3,11 +3,19 @@
 		"slug": "fearless",
 		"name": "Fearless",
 		"image": "etruckingsoft.png",
-		"url": "https://unitedspeakers.org",
+		"url": "https://unitedspeakers.org/fearless",
 		"source": "https://github.com/UncreativeName1/Fearless",
 		"date": "Apr 2021 - Present",
-		"description": "Developed for United Speakers Global, Fearless is an app on the app stuer that allows users to practice their public speaking with customizable options.",
+		"description": "Developed for United Speakers Global, Fearless is an app on the app store that allows users to practice their public speaking with customizable options.",
 		"tags": ["Swift","App Store","Current Project"]
+	},
+	{
+		"name": "Personal Site",
+		"image": "etruckingsoft.png",
+		"source": "https://github.com/UncreativeName1/Fearless",
+		"date": "Nov 2021 - Present",
+		"description": "This website you're reading right now!",
+		"tags": ["HTML","CSS","Javascript"]
 	},
 	{
 		"name": "Discord Moderation Bot",
@@ -36,7 +44,7 @@
 	{
 		"name": "DMOJ Practice",
 		"image": "streetsaver.png",
-		"source": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
+		"source": "https://github.com/UncreativeName1/DMOJ-Solutions",
 		"date": "Sep 2021",
 		"tags": ["C++","Contest"]
 	},
