@@ -13,7 +13,7 @@ th, td {
 Over the years, math and programming have been my absolute favorite hobbies, but many things interest me, and here, I list some of the achievements I'm most proud of!
 </p>
 <h1 class="math-achievements">Math Achievements</h1>
-<table cellpadding="25"cellspacing="10">
+<table>
   <tr>
     <th>Contest/Topic</th>
     <th>Achievement/Award</th>
@@ -130,7 +130,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
 
 
 <h1 class="programming-achievements">Programming Achievements</h1>
-<table cellpadding="25"cellspacing="10">
+<table>
   <tr>
     <th>Contest/Topic</th>
     <th>Achievement/Award</th>
@@ -166,7 +166,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
 
 
 <h1 class="programming-achievements">Other Achievements</h1>
-<table cellpadding="25"cellspacing="10">
+<table>
   <tr>
     <th>Topic</th>
     <th>Achievement/Award</th>
