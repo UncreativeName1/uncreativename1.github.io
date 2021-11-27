@@ -3,6 +3,11 @@ layout: page
 title: Achievements
 permalink: /achievements/
 ---
+<style>
+th, td {
+  padding: 20px;
+}
+</style>
 <title>My Achievements</title>
 <p>
 Over the years, math and programming have been my absolute favorite hobbies, but many things interest me, and here, I list some of the achievements I'm most proud of!
