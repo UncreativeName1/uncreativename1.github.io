@@ -174,10 +174,10 @@ Over the years, math and programming have been my absolute favorite hobbies, but
   
   <tr>
     <td>
-    <a href="https://unitedspeakers.org/fearless">Rising Youth</a>
+    <a href="https://www.risingyouth.ca/">Rising Youth</a>
     </td>
     <td>
-    <a href="https://apps.apple.com/ca/app/fearless/id1581042359">Community Service Certificate</a>
+    Community Service Certificate
     </td>
   </tr>
 </table>
