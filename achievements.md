@@ -5,7 +5,7 @@ permalink: /achievements/
 ---
 <style>
 th, td {
-  padding: 20px;
+  padding: 15px;
 }
 </style>
 <title>My Achievements</title>
