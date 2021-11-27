@@ -8,7 +8,7 @@ permalink: /achievements/
 Over the years, math and programming have been my absolute favorite hobbies, but many things interest me, and here, I list some of the achievements I'm most proud of!
 </p>
 <h1 class="math-achievements">Math Achievements</h1>
-<table>
+<table cellpadding="25"cellspacing="10">
   <tr>
     <th>Contest/Topic</th>
     <th>Achievement/Award</th>
@@ -82,7 +82,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="https://www.maa.org/math-competitions/amc-1012">2020 AMC Contest</a>
     </td>
     <td>
-    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Achievement Roll + AIME Qualification (Top 5%)</a>
+    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Achievement Roll + AIME Qualification (Top 5%)</a>*
     </td>
   </tr>
 
@@ -91,7 +91,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="https://www.maa.org/math-competitions/amc-1012">2021 (Feb) AMC Contest</a>
     </td>
     <td>
-    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Honor Roll + AIME Qualification (Top 5%)</a>
+    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Honor Roll + AIME Qualification (Top 5%)</a>*
     </td>
   </tr>
 
@@ -125,7 +125,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
 
 
 <h1 class="programming-achievements">Programming Achievements</h1>
-<table>
+<table cellpadding="25"cellspacing="10">
   <tr>
     <th>Contest/Topic</th>
     <th>Achievement/Award</th>
@@ -157,3 +157,26 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">placeholder</a>
     </td>
   </tr>
+</table>
+
+
+<h1 class="programming-achievements">Other Achievements</h1>
+<table cellpadding="25"cellspacing="10">
+  <tr>
+    <th>Topic</th>
+    <th>Achievement/Award</th>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="https://unitedspeakers.org/fearless">Rising Youth</a>
+    </td>
+    <td>
+    <a href="https://apps.apple.com/ca/app/fearless/id1581042359">Community Service Certificate</a>
+    </td>
+  </tr>
+</table>
+
+<footer>
+*The AMC Results website only displays the highest-scoring students in a region, inaccurate of the top 5%. To see AIME cutoffs, please view <a href="https://artofproblemsolving.com/wiki/index.php/AMC_historical_results">here</a>.
+</footer>
