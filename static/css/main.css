@@ -208,3 +208,39 @@ div.col-sm-3 img.profile-avatar {
   display: block;
   text-transform: uppercase;
 }
+
+.dynamic-txt {
+  margin-left: 15px;
+  height: 90px;
+  line-height: 90px;
+  overflow: visible;
+}
+
+.dynamic-txt li {
+  list-style: none;
+  color: #6cd4d8;
+  font-size: 60px;
+  font-weight: 500;
+  position: relative;
+  top: 0;
+}
+
+.dynamic-txt li span::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #ffffff;
+  border-left: 2px solid #ff0000;
+  animation: typing 1.5s steps(12) 1;
+  animation-fill-mode:forwards;
+}
+
+@keyframes typing {
+  from {left: 0px;}
+  to {left: calc(100% + 40px);}
+  100% {
+      visibility: hidden;
+  }
+}
