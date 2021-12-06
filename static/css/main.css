@@ -230,7 +230,7 @@ div.col-sm-3 img.profile-avatar {
   position: absolute;
   left: 0;
   height: 100%;
-  width: 100%;
+  width: 50%;
   background: #ffffff;
   border-left: 2px solid #ff0000;
   animation: typing 1.5s steps(12) 1;
@@ -239,7 +239,7 @@ div.col-sm-3 img.profile-avatar {
 
 @keyframes typing {
   from {left: 0px;}
-  to {left: calc(100% + 40px);}
+  to {left: calc(49%);}
   100% {
       visibility: hidden;
   }
