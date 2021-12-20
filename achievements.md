@@ -33,7 +33,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#csimc">2021 CSMC Contest</a>
     </td>
     <td>
-    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests">placeholder</a>
+    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests">Score: 50/60 (awaiting rank)</a>
     </td>
   </tr>
 
@@ -105,7 +105,7 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="https://www.maa.org/math-competitions/amc-1012">2021 (Nov) AMC Contest</a>
     </td>
     <td>
-    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">placeholder</a>
+    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Awaiting Score</a>
     </td>
   </tr>
 
@@ -147,21 +147,23 @@ Over the years, math and programming have been my absolute favorite hobbies, but
 
   <tr>
     <td>
-    <a href="http://www.usaco.org/index.php">USACO Gold Rank</a>
+    <a href="http://www.usaco.org/index.php">USA Computing Olympiad</a>
     </td>
     <td>
-    <a href="http://www.usaco.org/index.php">placeholder</a>
+    <a href="http://www.usaco.org/index.php">Gold Rank Qualification</a>
     </td>
   </tr>
 
+<!---
   <tr>
     <td>
     <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">2022 CCC</a>
     </td>
     <td>
-    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">placeholder</a>
+    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">Will Participate in</a>
     </td>
   </tr>
+--->
 </table>
 
 
