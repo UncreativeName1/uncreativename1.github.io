@@ -181,6 +181,15 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     Community Service Certificate
     </td>
   </tr>
+  
+  <tr>
+    <td>
+    <a href="https://www.rcmusic.com/">Royal Conservatory of Music</a>
+    </td>
+    <td>
+    Level 8 Piano Certificate
+    </td>
+  </tr>
 </table>
 
 <footer>
