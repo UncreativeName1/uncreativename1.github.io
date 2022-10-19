@@ -12,4 +12,4 @@ I'm always eager to deepen my understanding of both computer science and math!
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="/Resume_Draft.pdf" width="100%" height="900"></iframe>
+<iframe src="/Resume.pdf" width="100%" height="900"></iframe>
