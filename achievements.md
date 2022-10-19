@@ -105,13 +105,22 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="https://www.maa.org/math-competitions/amc-1012">2021 (Nov) AMC Contest</a>
     </td>
     <td>
-    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Awaiting Score</a>
+    <a href="https://amc-reg.maa.org/reports/generalreports.aspx">Distinguished Honor Roll (Top 1%, Ranked 7th in Canada with 226.5 USAMO Index) + AIME Qualification (Top 5%)*</a>
     </td>
   </tr>
 
   <tr>
     <td>
     <a href="https://www.hmmt.org/">2020 November HMMT</a>
+    </td>
+    <td>
+    TT Math HMMT Team Qualification
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="https://www.hmmt.org/">2022 February HMMT</a>
     </td>
     <td>
     TT Math HMMT Team Qualification
@@ -138,10 +147,10 @@ Over the years, math and programming have been my absolute favorite hobbies, but
   
   <tr>
     <td>
-    <a href="https://unitedspeakers.org/fearless">Fearless App</a>
+    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">2022 Canadian Computing Competition</a>
     </td>
     <td>
-    <a href="https://apps.apple.com/ca/app/fearless/id1581042359">App Published to App Store</a>
+    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests/2022/2022CCCResults.pdf#page=11">Group III Honor Roll</a>
     </td>
   </tr>
 
@@ -153,21 +162,11 @@ Over the years, math and programming have been my absolute favorite hobbies, but
     <a href="http://www.usaco.org/index.php">Gold Rank Qualification</a>
     </td>
   </tr>
-
-<!---
-  <tr>
-    <td>
-    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">2022 CCC</a>
-    </td>
-    <td>
-    <a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc">Will Participate in</a>
-    </td>
-  </tr>
---->
+  
 </table>
 
 
-<h1 class="programming-achievements">Other Achievements</h1>
+<h1 class="other-achievements">Other Achievements</h1>
 <table>
   <tr>
     <th>Topic</th>
